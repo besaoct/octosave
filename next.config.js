@@ -10,6 +10,6 @@ const withPWA = require('next-pwa')({
 
 module.exports = withPWA({
    images: {
-    domains: ["misc.scdn.co", "i.scdn.co", "geo-media.beatsource.com", "i1.sndcdn.com", "media.pitchfork.com", "seed-mix-image.spotifycdn.com", "xrxqqakkgezhaqsfgjey.supabase.co"]
+    domains: ["instagram.com"]
   }
 })
