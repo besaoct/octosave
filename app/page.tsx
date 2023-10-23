@@ -1,4 +1,4 @@
-import MyReel from "@/components/MyReel";
+// import MyReel from "@/components/MyReel";
 import InstagramReelSearch from "@/components/Reel";
 
 export default function Home() {
